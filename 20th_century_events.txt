@@ -1,0 +1,17 @@
+Wiktionary(dictionary)
+Wikibooks(textbooks)
+Wikiquote(quotations)
+Wikisource(library)
+Wikiversity(learning resources)
+Commons(media)
+Wikivoyage(travel guide)
+Wikinews(news source)
+Wikidata(linked database)
+Wikispecies(species directory)
+You need tolog in or create an accountand beautoconfirmedto create new articles. Alternatively, you can use thearticle wizardto submit a draft for review, orrequest a new article.
+Search for "Timeline of 20th-century history"in existing articles.
+Look for pages within Wikipedia that link to this title.
+Other reasons this message may be displayed:
+If a page was recently created here, it may not be visible yet because of a delay in updating the database; wait a few minutes ortry the purge function.
+Titles on Wikipedia arecase sensitiveexcept for the first character; pleasecheck alternative capitalizationsand consider adding aredirecthere to the correct title.
+If the page has been deleted,check thedeletion log, and seeWhy was the page I created deleted?
